@@ -1,3 +1,2 @@
 # softversko
-primer
-auditoriska vezba 4
+primer br 34
