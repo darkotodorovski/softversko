@@ -1,2 +1,4 @@
 # softversko
-test auditoriska vezba 4
+
+primer
+auditoriska vezba 4
